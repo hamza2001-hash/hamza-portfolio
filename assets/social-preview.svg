@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+<rect width="1200" height="630" fill="#080d18"/>
+<circle cx="980" cy="120" r="260" fill="#8b5cf6" opacity=".12"/><circle cx="1050" cy="520" r="330" fill="#22d3ee" opacity=".10"/>
+<text x="90" y="245" fill="white" font-family="Arial,sans-serif" font-size="72" font-weight="700">Hamza Chaabi</text>
+<text x="90" y="325" fill="url(#g)" font-family="Arial,sans-serif" font-size="42" font-weight="600">Aspiring AI Software Engineer</text>
+<text x="90" y="395" fill="#aab4c8" font-family="Arial,sans-serif" font-size="28">IT • Software Engineering • Python • AI</text>
+<rect x="90" y="455" width="390" height="6" rx="3" fill="url(#g)"/>
+</svg>
